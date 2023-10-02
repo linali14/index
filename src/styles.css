@@ -12,7 +12,10 @@ h1 {
   line-height: 28px;
   margin: 0;
 }
-
+.link {
+  padding-left: 45px;
+  margin-top: 0;
+}
 ul {
   margin: 0 0 10px;
   padding: 0;
@@ -55,8 +58,4 @@ li {
 .units {
   position: relative;
   top: -34px;
-}
-
-.search-form {
-  margin-bottom: 20px;
 }
